@@ -84,7 +84,7 @@ Z--Scores are described by the Standard Normal Distribution, N($\mu$ = 0, $\sigm
 
 Z--Scores are our first experience with one of the most important equations in all of statistics: **signal:noise**. Here, signal: $x_i - \mu$, noise: $\sigma$.
 
-"one curve, two values" - Lord of the rings model "One curve to rule them all.
+"one curve, two values" - Lord of the rings model "One curve to rule them all".
 
 ```{r}
 # Number of points on the distribution to calculate:
